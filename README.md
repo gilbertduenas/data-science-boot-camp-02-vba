@@ -6,4 +6,6 @@ Display the ticker symbol to coincide with the total volume.
 # Results
 See the attached PNG files.
 
-Run time exceeded 6 hours. Optimization needed.
+The script runs on all sheets in the workbook.
+
+However, the run time exceeded 6 hours. Optimization is needed.
